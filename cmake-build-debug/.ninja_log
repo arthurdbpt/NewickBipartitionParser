@@ -1,0 +1,7 @@
+# ninja log v5
+5	365	1690464436907415407	CMakeFiles/NewickBipartitionParser_.dir/parser.cpp.o	cd8977ebc5f0a90b
+307	344	1690464564340087314	NewickBipartitionParser_	cb0ff4e1f9e51dee
+4	307	1690464564300477549	CMakeFiles/NewickBipartitionParser_.dir/main.cpp.o	79d91e7772f8053c
+5	322	1690468085429929723	CMakeFiles/NewickBipartitionParser_.dir/main.cpp.o	f2eb8b973c6b2b4d
+5	356	1690468085463571582	CMakeFiles/NewickBipartitionParser_.dir/parser.cpp.o	103e8373084a329
+356	390	1690468085499349698	NewickBipartitionParser_	cb0ff4e1f9e51dee
