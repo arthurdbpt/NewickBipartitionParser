@@ -2,8 +2,8 @@
 // Created by Arthur Debeaupte on 25/07/2023.
 //
 
-#ifndef NEWICKBIPARTITIONPARSER__PARSER_H
-#define NEWICKBIPARTITIONPARSER__PARSER_H
+#ifndef NEWICKBIPARTITIONPARSER__PARSER_HPP
+#define NEWICKBIPARTITIONPARSER__PARSER_HPP
 
 #include <iostream>
 #include <string>
@@ -23,4 +23,4 @@ vector<pair<list<string>, list<string>>> stageBipartitioner(vector<vector<string
 pair<list<string>, list<string>> cutStringVector(vector<vector<string>> vector, int cutIndex);
 
 
-#endif //NEWICKBIPARTITIONPARSER__PARSER_H
+#endif //NEWICKBIPARTITIONPARSER__PARSER_HPP

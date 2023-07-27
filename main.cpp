@@ -2,7 +2,7 @@
 #include <string>
 #include <vector>
 #include <utility>
-#include "parser.h"
+#include "parser.hpp"
 using namespace std;
 
 void printVectorOfPairs(const std::vector<std::pair<std::list<std::string>, std::list<std::string>>>& myVector);

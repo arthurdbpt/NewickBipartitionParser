@@ -114,7 +114,7 @@
 		},
 		{
 			"backtrace" : 1,
-			"path" : "parser.h",
+			"path" : "parser.hpp",
 			"sourceGroupIndex" : 1
 		}
 	],
